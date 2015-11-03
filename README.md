@@ -1,0 +1,5 @@
+# Lora
+Ilga
+repositorijs
+
+
